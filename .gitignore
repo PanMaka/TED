@@ -1,7 +1,12 @@
-sdi2300107/.venv/
+.venv/
+
+.venv312/
 
 data/
+
 
 *.csv
 *.zip
 *.tar.gz
+
+*.pkl
